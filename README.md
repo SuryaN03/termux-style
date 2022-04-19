@@ -79,3 +79,13 @@ $ termux-style
 - Again... If you can improve it, sure...
 - Have fun!
 
+    
+### FHINISH
+    
+
+https://user-images.githubusercontent.com/99640009/163899612-ce5ccde2-9e32-4758-bdd6-d0c1871ba59a.mp4
+
+
+
+https://user-images.githubusercontent.com/99640009/163899325-4d29c38c-5bb5-4564-95c8-3cdc44896ae9.mp4
+
