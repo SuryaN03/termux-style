@@ -78,3 +78,4 @@ $ termux-style
 - An `uninstall` script is also added, in case you want to remove this program.
 - Again... If you can improve it, sure...
 - Have fun!
+
