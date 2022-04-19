@@ -83,7 +83,6 @@ $ termux-style
 ### FHINISH
     
 
-https://user-images.githubusercontent.com/99640009/163899612-ce5ccde2-9e32-4758-bdd6-d0c1871ba59a.mp4
 
 
 
